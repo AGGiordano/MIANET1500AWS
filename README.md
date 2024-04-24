@@ -52,9 +52,9 @@ A ***Restful API*** is an infistructire that two computer systems use to exchang
 
 #### What is the project scope
 
-*This project and many others we have done are to represent the learning process of indiana tech and how we may use cloud computing to further our education. 
+*This project and many others we have done are to represent the learning process of indiana tech and how we may use cloud computing to further our education.* 
 
-*As well as learning about cloud computing we strive to build future basic understanding for future ant better projects while maintaining a base foundation of skills and demenstrate those skills. 
+*As well as learning about cloud computing we strive to build future basic understanding for future ant better projects while maintaining a base foundation of skills and demenstrate those skills.*
 
 *For my personal use I may use these in the near future to build a bigger and better VDI server using a touch of* ***Amazons AWS.***
 
