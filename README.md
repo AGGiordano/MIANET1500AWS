@@ -27,4 +27,19 @@ A ***SQS*** or a *Simple Queue Service* is a service that fully managed messes a
 - *Overhead made simple* 
 - *Reliablity of scale* 
 - ***Security*** 
-- *Cost-effective scalablity* 
+- *Cost-effective scalablity*
+
+#### What is SES
+
+A ***SES*** or a *Simple email service* is a higly scramble impound and outbound email service. it is a cloud based email service. it includes tasks such as 
+
+1. *Sending emails* 
+2. *Reciving emails*
+3. *SMTP*
+4. *API*
+5. *CLI* 
+
+##### Benfits
+
+- *flexible and scaleable* 
+- *Cost effective* 
